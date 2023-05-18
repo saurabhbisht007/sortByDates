@@ -9,13 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "13.0.0",
     "@expo/webpack-config": "^18.0.1",
+    "@fluentui/react-native": "^0.36.23",
+    "@reduxjs/toolkit": "^1.9.5",
     "expo": "~48.0.11",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.71.6",
-    "react-native-web": "~0.18.10"
+    "react-native-svg": "^13.9.0",
+    "react-native-web": "~0.18.10",
+    "react-redux": "^8.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
